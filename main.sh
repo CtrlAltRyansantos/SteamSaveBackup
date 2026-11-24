@@ -1,4 +1,3 @@
-#!/bin/bash
 nomeDoJogo=""$(basename "$PWD")""
 
 pastaBase="$(dirname $0)"
