@@ -42,7 +42,6 @@ read -p "Pressione ENTER para fechar..."
 # if (($OSTYPE == "cygwin" || $OSTYPE == "msys" || $OSTYPE == "win32")); then
 #     "C:\Program Files (x86)\Steam\steamapps\common\Balatro\Balatro.exe"
 #     echo "Windows"
-#     echo "Please run this script in a Linux environment."
 # else (( )); then
 #     echo "Linux"
 #     ./Balatro
